@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .mi-lista li:last-child {
+    border: 2px solid green; 
+    padding: 5px; 
+  }
+  

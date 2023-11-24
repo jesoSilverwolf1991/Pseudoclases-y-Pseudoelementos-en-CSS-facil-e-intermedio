@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif; 
+    background-color: pink;
+  }
+  
+  .mi-lista li:first-child {
+    background-color: #cccccc; 
+    padding: 5px; 
+  }
+  

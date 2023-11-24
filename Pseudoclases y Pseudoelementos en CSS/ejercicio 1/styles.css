@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif; 
+    font-size: 40px;
+    background-color: black;
+  }
+  
+ 
+  .cambiar-color {
+    color: pink;
+    text-decoration: none; 
+  }
+  
+ 
+  .cambiar-color:hover {
+    color: rgb(115, 211, 255);
+  }
+  

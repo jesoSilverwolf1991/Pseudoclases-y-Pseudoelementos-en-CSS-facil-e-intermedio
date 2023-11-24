@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif; 
+  }
+  
+  .mi-lista li::before {
+    content: '\2192'; 
+    color: #008000; 
+    margin-right: 0.5em; 
+  }
+  
